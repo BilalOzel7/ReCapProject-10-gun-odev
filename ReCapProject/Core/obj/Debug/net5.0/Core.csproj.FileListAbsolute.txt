@@ -1,0 +1,12 @@
+D:\RentACar\FinalProject\Core\bin\Debug\net5.0\Core.deps.json
+D:\RentACar\FinalProject\Core\bin\Debug\net5.0\Core.dll
+D:\RentACar\FinalProject\Core\bin\Debug\net5.0\ref\Core.dll
+D:\RentACar\FinalProject\Core\bin\Debug\net5.0\Core.pdb
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\Core.dll
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\ref\Core.dll
+D:\RentACar\FinalProject\Core\obj\Debug\net5.0\Core.pdb
